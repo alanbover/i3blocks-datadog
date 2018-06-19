@@ -1,0 +1,20 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "SPQcWDUN+wcTThipcR9EzX4t3E8=",
+			"origin": "github.com/zorkian/go-datadog-api/vendor/github.com/cenkalti/backoff",
+			"path": "github.com/cenkalti/backoff",
+			"revision": "d74ca17e47a9d3708e6203fd48d3f8cdad055e1c",
+			"revisionTime": "2018-05-23T15:39:50Z"
+		},
+		{
+			"checksumSHA1": "nEyFg3bIc+61ao3QOgeIGN0bBKs=",
+			"path": "github.com/zorkian/go-datadog-api",
+			"revision": "d74ca17e47a9d3708e6203fd48d3f8cdad055e1c",
+			"revisionTime": "2018-05-23T15:39:50Z"
+		}
+	],
+	"rootPath": "github.com/alanbover/i3status-datadog"
+}
