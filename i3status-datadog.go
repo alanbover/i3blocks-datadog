@@ -54,7 +54,7 @@ func main() {
 		}
 	}
 
-	fmt.Printf("%vN %vW %vA ", monitorCounter.NoData, monitorCounter.Warn, monitorCounter.Alert)
+	fmt.Printf("%vN %vW %vA %vT", monitorCounter.NoData, monitorCounter.Warn, monitorCounter.Alert, len(monitors))
 
 	switch {
 	case monitorCounter.Alert >  0:
